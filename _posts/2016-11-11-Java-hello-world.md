@@ -23,7 +23,9 @@ step1 新建一个Java Project  写好名字之后就什么都不用点了
 
 ![](http://ww4.sinaimg.cn/large/006pzljrgw1f9wb0hjc2bj30ho02bmx7.jpg)
 
-step2  新建一个class![](http://ww3.sinaimg.cn/large/006pzljrgw1f9wb1t5b3bj30gk05vmy7.jpg)
+step2  新建一个class
+
+![](http://ww3.sinaimg.cn/large/006pzljrgw1f9wb1t5b3bj30gk05vmy7.jpg)
 
 这里勾上第一个
 
