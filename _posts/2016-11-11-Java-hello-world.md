@@ -12,9 +12,11 @@ excerpt: Java hello world
 
 终于开始学Java啦~~~视频From中国大学MOOC[零基础学Java语言](http://www.icourse163.org/course/ZJU-1001541001#/info)
 
+
 ##### 环境的配置
 
 官网下载eclipse、jdk等等，参照网上的教程进行配置
+
 
 ##### Hello World
 
