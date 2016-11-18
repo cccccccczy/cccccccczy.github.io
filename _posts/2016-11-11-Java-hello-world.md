@@ -9,7 +9,7 @@ excerpt: Java hello world
 * content
 {:toc}
 
-#Java 之 hello world
+# Java 之 hello world
 
 终于开始学Java啦~~~视频From中国大学MOOC[零基础学Java语言](http://www.icourse163.org/course/ZJU-1001541001#/info)
 
@@ -21,21 +21,24 @@ excerpt: Java hello world
 
 step1 新建一个Java Project  写好名字之后就什么都不用点了
 
-![](file:///C:\Users\thinkpad\Documents\Tencent Files\825390389\Image\C2C\D}Y0_7N`6PJ{[T$A}VHEZS3.jpg)
+![](http://ww4.sinaimg.cn/large/006pzljrgw1f9wb0hjc2bj30ho02bmx7.jpg)
 
-step2  新建一个class![](file:///C:\Users\thinkpad\Documents\Tencent Files\825390389\Image\C2C\68`JKEECFCWT]NG2PN{K64V.png)
+step2  新建一个class![](http://ww3.sinaimg.cn/large/006pzljrgw1f9wb1t5b3bj30gk05vmy7.jpg)
 
 这里勾上第一个
 
-![](file:///C:\Users\thinkpad\Documents\Tencent Files\825390389\Image\C2C\@7Q9%{7MGT1L2GXAEQK`D~7.png)
+![](http://ww4.sinaimg.cn/large/006pzljrgw1f9wb2bc501j309o02i0su.jpg)
 
 step3 写代码~
 
-![](file:///C:\Users\thinkpad\Documents\Tencent Files\825390389\Image\C2C\K4@$WXO1B$OGTKZT~@A]6$K.png)
+![](http://ww3.sinaimg.cn/large/006pzljrgw1f9wb2v875yj309y02lglw.jpg)
 
 step4 点左上角的小箭头运行
 
-![](file:///C:\Users\thinkpad\Documents\Tencent Files\825390389\Image\C2C\Q6Q~J55SF4NR6U841%]L_]S.jpg)
+![](http://ww1.sinaimg.cn/large/006pzljrgw1f9wb378l6sj30am034gll.jpg)
 
 撒花~
+
+
+
 
