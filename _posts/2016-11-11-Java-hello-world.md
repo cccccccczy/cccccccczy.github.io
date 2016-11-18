@@ -9,7 +9,6 @@ excerpt: Java hello world
 * content
 {:toc}
 
-# Java 之 hello world
 
 终于开始学Java啦~~~视频From中国大学MOOC[零基础学Java语言](http://www.icourse163.org/course/ZJU-1001541001#/info)
 
