@@ -7,7 +7,7 @@ excerpt: Android hello world
 ---
 
 * content
-  {:toc}
+{:toc}
 
 ### 引言
 
