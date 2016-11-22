@@ -41,7 +41,7 @@ excerpt: Android hello world
 
 ​	顺便一提，个人觉得深色的界面看起来比较高大上，就改了。具体为：File-Settings->在Editor里面选colors&fonts，把默认的改成Darcula（黑色）就好啦~
 
-- 新建项目
+### 新建项目
 
   1. 点击 Start a new Android Studio project
 
