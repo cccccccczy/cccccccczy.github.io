@@ -37,9 +37,9 @@ excerpt: Android hello world
 
 ![](http://upload-images.jianshu.io/upload_images/323464-4ef0fa87c1fd3bd6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-  ​	到这里之后就差不多都弄好了，不过我的电脑在后面运行时发现一些问题，需要在BIOS界面设置一些东西，后面再说。
+   ​到这里之后就差不多都弄好了，不过我的电脑在后面运行时发现一些问题，需要在BIOS界面设置一些东西，后面再说。
 
-  ​	顺便一提，个人觉得深色的界面看起来比较高大上，就改了。具体为：File-Settings->在Editor里面选colors&fonts，把默认的改成Darcula（黑色）就好啦~
+   ​顺便一提，个人觉得深色的界面看起来比较高大上，就改了。具体为：File-Settings->在Editor里面选colors&fonts，把默认的改成Darcula（黑色）就好啦~
   <br>
 
 ### 新建项目
