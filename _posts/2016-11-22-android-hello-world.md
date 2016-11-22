@@ -9,10 +9,6 @@ excerpt: Android hello world
 * content
   {:toc}
 
-
-
-### Android 之 hello world
-
 ### 引言
 
 刚开始接触Android对于我这种零基础甚至不会Java的渣渣当然是一脸懵逼，于是在各种课程网站上找视频、查资料，从Hello World开始一点点的学。虽然自己平时已经很忙，但还是决定每过一段时间就要有一些进步。写博客和笔记还真的是一个反思自己是否有所进步的好办法呢。
@@ -71,7 +67,7 @@ excerpt: Android hello world
 
      ​看到手机界面上出现hello world的时候，内心万分激动！！！！！嘻嘻
 
-     ​![](http://ww4.sinaimg.cn/large/006pzljrgw1fa0z4xff08j30v80ip447.jpg)
+     ​![](http://ww3.sinaimg.cn/large/006pzljrgw1fa10e9vdj8j309t0egt9e.jpg)
 
 <br>
 
