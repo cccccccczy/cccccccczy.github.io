@@ -7,8 +7,7 @@ excerpt: Android create page
 ---
 
 * content
-  {:toc}
-
+{:toc}
 
 
 ###  创建简单的用户页面
