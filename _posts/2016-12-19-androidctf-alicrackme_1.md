@@ -71,7 +71,7 @@ excerpt: AliCrackme_1
 
 #### 动态分析	
 
-#### ![](http://ww3.sinaimg.cn/large/006pzljrgw1fawl5fe08yj30mc0bx78v.jpg)
+ ![](http://ww3.sinaimg.cn/large/006pzljrgw1fawl5fe08yj30mc0bx78v.jpg)
 
 ​	仔细观察一下，这个日志带有标签“lil”，因此使用**adb logcat -s lil**过滤一下就可以得到日志了~
 
