@@ -10,7 +10,7 @@ excerpt: AliCrackme_1
 {:toc}
 
 * 昨天晚上方轶给我们讲了两道安卓题，嗯...作为什么都不会的小白终于找到了一点感觉，感觉还是挺有收获的。感谢大佬~
-  看到破解成功的那一刻感觉很爽hhhhhhhhh
+    看到破解成功的那一刻感觉很爽hhhhhhhhh
 
 
 ​	![0x01](http://www.secpulse.com/wp-content/uploads/2015/04/0x01.jpg)
@@ -36,6 +36,8 @@ excerpt: AliCrackme_1
 ​	2. 从偏移91265处读取18个字节编码的UTF-8（即6个中文字符）为最终比较的密码。然后通过输入的字符的转换，转换规则就是ASCII字符编码，去比较是否和最终密码相等。
 
 
+
+#### 静态分析
 
 ​	抄一个网上的解密程序：
 
@@ -65,7 +67,11 @@ excerpt: AliCrackme_1
 
 ​	好吧......连Java都不是很熟的我目前还不会写这种Orz，所以还是用巧妙的动态调试吧！
 
-​	![](http://ww3.sinaimg.cn/large/006pzljrgw1fawl5fe08yj30mc0bx78v.jpg)
+
+
+#### 动态分析	
+
+#### ![](http://ww3.sinaimg.cn/large/006pzljrgw1fawl5fe08yj30mc0bx78v.jpg)
 
 ​	仔细观察一下，这个日志带有标签“lil”，因此使用**adb logcat -s lil**过滤一下就可以得到日志了~
 
