@@ -6,12 +6,11 @@ categories: CTF
 excerpt: AliCrackme_1
 ---
 
-content
+* content
 {:toc}
 
-* 昨天晚上方轶给我们讲了两道安卓题，嗯...从什么都不会的小白终于找到了一点CTF的感觉，感觉还是挺有收获的。
-
-  看到破解成功的那一刻感觉很爽hhhhhhhhh
+* 昨天晚上方轶给我们讲了两道安卓题，嗯...作为什么都不会的小白终于找到了一点感觉，感觉还是挺有收获的。感谢大佬~
+  看到破解成功的那一刻感觉很爽hhhhhhhhh
 
 
 ​	![0x01](http://www.secpulse.com/wp-content/uploads/2015/04/0x01.jpg)
